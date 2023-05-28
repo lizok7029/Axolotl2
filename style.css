@@ -1,0 +1,114 @@
+body {
+    background-color: #FAD7E8;
+    font-size: 20px;
+    margin: 0px;
+}
+
+header {
+    background-color: #C6397D;
+    padding: 20px;
+    justify-content: space-around;
+}
+main {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+footer {
+    background-color: #C6397D;
+    color: #FAD7E8;
+    font-size: 20px;
+    font-family: Comic Sans MS;
+
+}
+
+main p {
+    color: #8F275A;
+    font-size: 20px;
+    font-family: Comic Sans MS;
+    text-align: center;
+}
+
+td {
+    color: #8F275A;
+    font-size: 20px;
+    font-family: Comic Sans MS;
+}
+
+footer a {
+   color: #18DAFF;
+   text-decoration: none;
+   font-family: Comic Sans MS;
+    
+}
+
+header a {
+    color: #18DAFF;
+   text-decoration: none;
+   border: 3px solid #581636;
+   border-radius: 15px;
+   padding: 8px;
+   margin: 60px;
+   background-color: #581636;
+}
+
+header img {
+    margin: 20px 400px 20px 410px;
+}
+
+h2, h1 {
+    font-family: Impact;
+    color: #581636;
+    text-align:center;
+}
+
+.podval {
+    color: #18DAFF;
+   text-decoration: none;
+}
+
+.avtor {
+   color: #18AFFF;
+}
+
+li {
+    color: #8F275A;
+    font-size: 20px;
+    font-family: Comic Sans MS;
+}
+
+footer p {
+    margin-left: 50px;
+}
+
+.blueachsolotl {
+    float: right;
+    margin: 30px;
+}
+
+.smallachsolotl {
+    margin: 30px;
+}
+
+.start2 {
+    color: #18DAFF;
+   text-decoration: none;
+   border: 3px solid #581636;
+   border-radius: 15px;
+   padding: 8px;
+   margin: 60px;
+   background-color: #581636;
+   position: relative;
+   bottom: 60px;
+}
+
+.blackachsolotl {
+    float: right;
+    margin: 15px;
+}
+
+.pinkachsolotl {
+    float: left;
+    margin: 20px;
+}
+
